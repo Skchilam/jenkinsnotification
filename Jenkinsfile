@@ -7,7 +7,7 @@ pipeline {
 
     stages {
 
-        // CI Start
+         CI Start
         stage('Build') {
             steps {
                 echo 'Build'
